@@ -16,16 +16,10 @@ and displays all that information via links on a single page.
 
 please run this in command line to run it properly
 
-     Pip install Django
     Pip install request
     pip install server
 
-Use These to Executable for the Django:-
 
-    -->python manage.py startapp.
-    -->python manage.py makemigrations.
-    -->python manage.py migrate.
-    -->python manage.py runserver.
     
 
 Instruction to Check on main Webpage 
